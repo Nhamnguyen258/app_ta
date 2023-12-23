@@ -26,7 +26,6 @@ env/
 *.lock
 
 # Environment
-.env
 .venv/
 # Ignore compiled Python bytecode
 __pycache__/
