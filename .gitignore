@@ -1,0 +1,41 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code specific
+.vscode/
+
+# Editor-specific files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Package Files
+*.log
+*.lock
+
+# Environment
+.env
+.venv/
+# Ignore compiled Python bytecode
+__pycache__/
+
+# Ignore the "dist" directory when building Python packages
+dist/
+
+# Ignore the "build" directory when building Python packages
+build/
+
+# Ignore the "egg-info" directory when building Python packages
+*.egg-info/
